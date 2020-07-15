@@ -1,6 +1,6 @@
 # Importing Required Libraries
 import os
-from io import BytesIO
+import io
 
 import numpy as np
 import matplotlib.pyplot as plt
