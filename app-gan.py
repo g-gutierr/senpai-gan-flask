@@ -3,7 +3,6 @@ import os
 import io
 
 import numpy as np
-import matplotlib.pyplot as plt
 from PIL import Image
 
 from tensorflow import keras
@@ -19,18 +18,13 @@ noise_dim = 100
 image_dim = (32, 32)
 
 # Debug var
-debug = 1
+debug = 0
 
 def plot_gen(n_ex=1,dim=(4,4), figsize=(7,7) ):
     noise = np.random.normal(0,1,size=[n_ex,100])
     generated_images = generator.predict(noise)
     if debug == 1: print("Entered plot_gen Function")
-    plt.figure(figsize=figsize)
-    for i in range(generated_images.shape[0]):
-        if debug == 1: print("Entered FOR in plot_gen Function")
-        plt.subplot(dim[0],dim[1],i+1)
-        img = generated_images[i,:,:,:]
-        
+    img = generated_images[0,:,:,:]
     return img
 
 generator = load_model(model_path_gen)
