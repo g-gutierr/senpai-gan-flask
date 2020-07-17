@@ -1,6 +1,6 @@
 # Importing Required Libraries
 import os
-from io import BytesIO
+import io
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -64,6 +64,5 @@ def example1():
 
 def nocache(response):
     """Add Cache-Control headers to disable caching a response"""
-    response.headers['Cache-Control'] = 'no-store, no-cache, must-revalidate,
- max-age=0'
+    response.headers['Cache-Control'] = 'no-store, no-cache, must-revalidate max-age=0'
     return response
