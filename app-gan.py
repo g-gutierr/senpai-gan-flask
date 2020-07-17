@@ -1,11 +1,10 @@
 # Importing Required Libraries
-import os
 import io
 
 import numpy as np
 from PIL import Image
 
-from tensorflow import keras
+from tensorflow import keras.model
 from keras.models import load_model
 
 from flask import Flask, send_file
