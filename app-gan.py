@@ -4,7 +4,7 @@ import io
 import numpy as np
 from PIL import Image
 
-from tensorflow import keras.model
+import tensorflow
 from keras.models import load_model
 
 from flask import Flask, send_file
