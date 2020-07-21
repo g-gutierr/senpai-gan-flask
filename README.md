@@ -14,7 +14,7 @@
 
 ## Procedimientos_Previos
 
-- Levantar una máquina virtual en Amazon AWS con sistema operativo Ubuntu 18.04 (Consultar diapositiva 2.0 del curso). Se requiere al menos 1GB de RAM y tener configurado el security group de forma que se puedan levantar conexiones HTTP y SSH)
+- Levantar una máquina virtual en Amazon AWS con sistema operativo Ubuntu 18.04 (Consultar diapositiva 2.0 del curso). Se requiere al menos 1GB de RAM y tener configurado el security group de forma que se puedan levantar conexiones HTTP y SSH
 - Levantar una sesión ssh con el user ubuntu
 
 ## Instalación
