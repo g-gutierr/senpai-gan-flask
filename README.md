@@ -7,7 +7,7 @@
 
 > If your `README` has a lot of info, section headers might be nice.
 
-- [Procedimientos Previos](#Procedimientos_Previos)
+- [Procedimientos Previos](#Procedimientos Previos)
 - [Instalación](#Instalación)
 - [Utilización](#Utilización)
 - [Referencias](#Referencias)
