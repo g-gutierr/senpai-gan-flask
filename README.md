@@ -21,6 +21,18 @@
 
 - Hacer un clone del repositorio a la máquina de AWS `https://github.com/g-gutierr/senpai-gan-flask`
 
+> Hacer un update de apt
+
+```shell
+sudo apt update
+sudo apt upgrade
+```
+
+> Instalar Virtual Enviroment
+
+```shell
+sudo apt install python3-venv
+```
 
 > Crear y levantar un entorno virtual de python3 en la carpeta donde se bajo el repo (/home/ubuntu/senpai-gan-flask)
 
