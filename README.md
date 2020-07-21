@@ -1,9 +1,9 @@
 # Senpai-GAN-Flask
 
-> Proyecto de fin de curso del Artificial Inteligence Developer 20 
-> Anthony Cabrera - acabreragnz@gmail.com
-> Gonzalo Gutiérrez - ggutierrez.ucu@gmail.com
+> Aplicación Web Proyecto de fin de curso del Artificial Inteligence Developer 20 
 
+- Anthony Cabrera - acabreragnz@gmail.com
+- Gonzalo Gutiérrez - ggutierrez.ucu@gmail.com
 
 ## Contenido
 
