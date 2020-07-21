@@ -7,14 +7,14 @@
 
 > If your `README` has a lot of info, section headers might be nice.
 
-- [Procedimientos Previos](#Procedimientos Previos)
+- [Procedimientos Previos](#Procedimientos_Previos)
 - [Instalación](#Instalación)
 - [Utilización](#Utilización)
 - [Referencias](#Referencias)
 
 
 
-## Procedimientos Previos
+## Procedimientos_Previos
 
 - Levantar una máquina virtual en Amazon AWS con sistema operativo Ubuntu 18.04 (Consultar diapositiva 2.0 del curso). Se requiere al menos 1GB de RAM y tener configurado el security group de forma que se puedan levantar conexiones HTTP y SSH)
 - Levantar una sesión ssh con el user ubuntu
