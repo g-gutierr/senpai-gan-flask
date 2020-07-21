@@ -3,7 +3,7 @@
 > Proyecto de fin de curso del Artificial Inteligence Developer 20 
 
 
-## Table of Contents (Optional)
+## Contenido
 
 > If your `README` has a lot of info, section headers might be nice.
 
