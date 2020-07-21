@@ -71,6 +71,6 @@ $ flask run --host=0.0.0.0
 Para tener otra imagen se debe cargar nuevamente la página.**
 
 
-- En caso de no haber hecho la instalación, se puede acceder al sitio y comprobar el funcionamiento:
+- En caso de no haber hecho la instalación, se puede acceder al sitio y observar el funcionamiento:
 
 http://ec2-54-210-58-217.compute-1.amazonaws.com:5000/
