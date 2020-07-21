@@ -67,8 +67,8 @@ $ flask run --host=0.0.0.0
 
 - En un navegador web ingresar a la página web dada por el servicio AWS en el puerto 5000.
 
-Se observará una imágen de tamaño 32x32 que es el resultado de hacer un predict en el modelo del generador previamente entrenado.
-Para tener otra imágen se debé cargar nuevamente la página.
+**Se observará una imágen de tamaño 32x32 que es el resultado de hacer un predict en el modelo del generador previamente entrenado.
+Para tener otra imágen se debé cargar nuevamente la página.**
 
 
 - En caso de no haber hecho la instalación, se puede acceder al sitio y comprobar el funcionamiento:
