@@ -22,7 +22,7 @@
 - Hacer un clone del repositorio a la máquina de AWS `https://github.com/g-gutierr/senpai-gan-flask`
 
 
-> Crear y levantar un entorno virtual de python3 en la carpeta donde se bajo el repo
+> Crear y levantar un entorno virtual de python3 en la carpeta donde se bajo el repo (/home/ubuntu/senpai-gan-flask)
 
 ```shell
 $ python3 -m venv venv
