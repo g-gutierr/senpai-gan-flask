@@ -74,3 +74,10 @@ Para tener otra imagen se debe cargar nuevamente la página.**
 - En caso de no haber hecho la instalación, se puede acceder al siguiente sitio y observar el funcionamiento:
 
 http://ec2-54-210-58-217.compute-1.amazonaws.com:5000/
+
+
+## Referencias
+
+1 - https://linuxize.com/post/how-to-install-flask-on-ubuntu-18-04/
+2 - https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing
+3 - 
