@@ -34,11 +34,11 @@ app = Flask(__name__)
 def frontpage():
     return """
 <!doctype html>
-<head><title>dynamic</title></head>
+<head><title>senpai-gan-flask</title></head>
 <body>
 
 <div>
-<img style="border: 1px dotted red" src="/example1.png" />
+<img src="/example1.png" />
 </div>
 
 </body>
