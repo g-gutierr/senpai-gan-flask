@@ -73,7 +73,7 @@ Para tener otra imagen se debe cargar nuevamente la página.**
 
 - En caso de no haber hecho la instalación, se puede acceder al siguiente sitio y observar el funcionamiento:
 
-http://ec2-54-210-58-217.compute-1.amazonaws.com:5000/
+http://ec2-54-209-154-101.compute-1.amazonaws.com:5000/
 
 
 ## Referencias
