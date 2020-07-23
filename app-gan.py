@@ -21,6 +21,7 @@ debug = 0
 def plot_gen(n_ex=1,dim=(4,4), figsize=(7,7) ):
     noise = np.random.normal(0,1,size=[n_ex,100])
     generated_images = generator.predict(noise)
+    generated_images = (generated_images+1)/2
     if debug == 1: print("Entered plot_gen Function")
     img = generated_images[0,:,:,:]
     return img
