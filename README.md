@@ -6,7 +6,7 @@ Proyecto de fin de curso del Artificial Inteligence Developer 20
 
 - [Conformación del equipo](##Conformación%20del%20equipo)
 - [Descripción de la problemática a solucionar](##Descripción-de-la-problemática-a-solucionar)
-- [Descripción de la solución implementada](##-Descripción%20de%20la%20solución%20implementada)
+- [Descripción de la solución implementada](## Descripción de la solución implementada)
 - [Descripción inicial del algoritmo de machine learning o modelo de deep learning a utilizar](## Descripción_inicial_del_algoritmo_de_machine_learning_o_modelo_de_deep_learning_a_utilizar)
 - [Análisis de soluciones existentes y detalle de la alternativa seleccionada](## Análisis%20de%20soluciones%20existentes%20y%20detalle%20de%20la%20alternativa%20seleccionada)
 - [Resultados obtenidos](## Resultados%20obtenidos)
