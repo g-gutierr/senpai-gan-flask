@@ -238,7 +238,7 @@ Los resultados obtenidos son buenos, a simple vista y más allá de pequeños de
 
 ![Resultados](public/resultados.png?raw=true)
 
-Como se comentaba anteriormente, a red fue entrenada en Google Colab que cuenta con las siguientes especificaciones a la fecha 26/07/2020:
+Como se comentaba anteriormente, la red fue entrenada en Google Colab que cuenta con las siguientes especificaciones a la fecha 26/07/2020:
 
 CPU: 2-core Xeon 2.2GHz  <br />
 GPU: Tesla K80  <br />
