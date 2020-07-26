@@ -278,7 +278,7 @@ sudo apt upgrade
 sudo apt install python3-venv
 ```
 
-> Crear y levantar un entorno virtual de python3 en la carpeta donde se bajo el repo (/home/ubuntu/senpai-gan-flask)
+> Crear y levantar un entorno virtual de python3 en la carpeta donde se bajo el repo (/home/ubuntu/senpai-gan-flask)[10]
 
 ```shell
 $ python3 -m venv venv
@@ -310,13 +310,8 @@ $ flask run --host=0.0.0.0
 - En un navegador web ingresar a la página web dada por el servicio AWS en el puerto 5000.
 
 **Se observará una imágen de tamaño 32x32 que es el resultado de hacer un predict en el modelo del generador previamente entrenado.
-Para tener otra imagen se debe cargar nuevamente la página.**
+Para tener otra imagen se debe cargar nuevamente la página.** [11][12] 
 
-### Referencias de Implementación
----
-1 - Creación entornos virtuales y Flask - https://linuxize.com/post/how-to-install-flask-on-ubuntu-18-04/<br />
-2 - Documentación Routing - https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing<br />
-3 - Cache Response - https://github.com/davewsmith/play/tree/master/matplotlib-flask
 
 ## Referencias y Bibliografía
 [1] Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.<br />
@@ -328,4 +323,6 @@ Para tener otra imagen se debe cargar nuevamente la página.**
 [7] https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0 <br />
 [8] François, Chollet. "Deep learning with Python." (2017).<br />
 [9] https://datascience.stackexchange.com/questions/56860/dc-gan-with-batch-normalization-not-working<br />
-
+[10] https://linuxize.com/post/how-to-install-flask-on-ubuntu-18-04/<br />
+[11] https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing<br />
+[12] Cache Response - https://github.com/davewsmith/play/tree/master/matplotlib-flask
