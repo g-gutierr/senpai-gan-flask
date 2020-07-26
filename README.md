@@ -2,6 +2,18 @@
 
 Aplicación Web Proyecto de fin de curso del Artificial Inteligence Developer 20
 
+## Contenido
+
+- [Conformación del equipo](#Conformación_del_equipo)
+- [Descripción de la problemática a solucionar](#Descripción_de_la_problemática_a_solucionar)
+- [Descripción de la solución implementada](#Descripción_de_la_solución_implementada)
+- [Descripción inicial del algoritmo de machine learning o modelo de deep learning a utilizar] (Descripción_inicial_del_algoritmo_de_machine_learning_o_modelo_de_deep_learning_a_utilizar)
+- [Análisis de soluciones existentes y detalle de la alternativa seleccionada](#Análisis_de_soluciones_existentes_y_detalle_de_la_alternativa_seleccionada)
+- [Resultados obtenidos](#Resultados_obtenidos)
+- [Propuestas a futuro](#Propuestas_a_futuro)
+- [Correr el proyecto](#Correr_el_proyecto)
+- [Referencias y Bibliografía](#Referencias_y_Bibliografía)
+
 ## Conformación del equipo
 
 - Anthony Cabrera - acabreragnz@gmail.com
@@ -242,12 +254,6 @@ Quedan fuera del alcance de este proyecto algunas mejoras planificadas en un pri
 - Tunear hiperparámetros de ambas redes (cambiar la cantidad de nodos de las capas, cambiar el optimizador, *batch size*, cantidad de *epochs*, etc).
 
 ## Correr el proyecto
-
-### Contenido
-
-- [Procedimientos previos](#Procedimientos_Previos)
-- [Instalación](#Instalación)
-- [Utilización](#Utilización)
 
 ### Procedimientos previos
 
