@@ -4,14 +4,14 @@ Proyecto de fin de curso del Artificial Inteligence Developer 20
 
 ## Contenido
 
-- [Conformación del equipo](##Conformación%20del%20equipo)
-- [Descripción de la problemática a solucionar](##Descripción-de-la-problemática-a-solucionar)
-- [Descripción de la solución implementada](## Descripción de la solución implementada)
-- [Descripción inicial del algoritmo de machine learning o modelo de deep learning a utilizar](## Descripción_inicial_del_algoritmo_de_machine_learning_o_modelo_de_deep_learning_a_utilizar)
-- [Análisis de soluciones existentes y detalle de la alternativa seleccionada](## Análisis%20de%20soluciones%20existentes%20y%20detalle%20de%20la%20alternativa%20seleccionada)
-- [Resultados obtenidos](## Resultados%20obtenidos)
-- [Propuestas a futuro](## Propuestas%20a%20futuro)
-- [Correr el proyecto](## Correr%20el%20proyecto)
+- [Conformación del equipo](#conformación-del-equipo)
+- [Descripción de la problemática a solucionar](#descripción-de-la-problemática-a-solucionar)
+- [Descripción de la solución implementada](#descripción-de-la-solución-implementada)
+- [Descripción inicial del algoritmo de machine learning o modelo de deep learning a utilizar](#descripción-inicial-del-algoritmo-de-machine-learning-o-modelo-de-deep-learning-a-utilizar)
+- [Análisis de soluciones existentes y detalle de la alternativa seleccionada](#análisis-de-soluciones-existentes-y-detalle-de-la-alternativa-seleccionada)
+- [Resultados obtenidos](#resultados-obtenidos)
+- [Propuestas a futuro](#propuestas-a-futuro)
+- [Correr el proyecto](#correr-el-proyecto)
 - [Referencias y Bibliografía](#referencias-y-bibliografía)
 
 
