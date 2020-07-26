@@ -6,13 +6,13 @@ Aplicación Web Proyecto de fin de curso del Artificial Inteligence Developer 20
 
 - [Conformación del equipo](##Conformación%20del%20equipo)
 - [Descripción de la problemática a solucionar](##Descripción%20de%20la%20problemática%20a%20solucionar)
-- [Descripción de la solución implementada](##Descripción_de_la_solución_implementada)
+- [Descripción de la solución implementada](##Descripción%20de%20la%20solución%20implementada)
 - [Descripción inicial del algoritmo de machine learning o modelo de deep learning a utilizar](##Descripción_inicial_del_algoritmo_de_machine_learning_o_modelo_de_deep_learning_a_utilizar)
-- [Análisis de soluciones existentes y detalle de la alternativa seleccionada](##Análisis_de_soluciones_existentes_y_detalle_de_la_alternativa_seleccionada)
-- [Resultados obtenidos](##Resultados_obtenidos)
-- [Propuestas a futuro](##Propuestas_a_futuro)
+- [Análisis de soluciones existentes y detalle de la alternativa seleccionada](##Análisis%20de%20soluciones%20existentes%20y%20detalle%20de%20la%20alternativa%20seleccionada)
+- [Resultados obtenidos](##Resultados%20obtenidos)
+- [Propuestas a futuro](##Propuestas%20a%20futuro)
 - [Correr el proyecto](##Correr%20el%20proyecto)
-- [Referencias y Bibliografía](##Referencias_y_Bibliografía)
+- [Referencias y Bibliografía](##Referencias%20y%20Bibliografía)
 
 ## Conformación del equipo
 
