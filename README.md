@@ -221,7 +221,7 @@ Se observaron las siguientes recomendaciones a tener en cuenta para la red discr
 
 ### Arquitectura global de la solución:
 ---
-Se tiene una API implementada en flask, la cual provee un endpoint [localhost:5000/example1.png](http://localhost:5000/example1.png) encargado de generar una nueva imagen de un auto de frente con resolución 32x32. Al levantar el servidor, se carga el modelo `model/model_gen.h5` de la red generador definida y entrenada en la google colab `Proyecto_Senpai_AI_dev_2020.ipynb` la cual se encuentra en la raíz de este proyecto. Y luego para cada llamada al endpoint `example1.png` se ejecuta el método `predict` del modelo, el cual genera una nueva imagen y lo envía como respuesta en el pedido HTTP.
+Se tiene una API implementada en flask, la cual provee un endpoint [11] [localhost:5000/example1.png](http://localhost:5000/example1.png) encargado de generar una nueva imagen de un auto de frente con resolución 32x32. Al levantar el servidor, se carga el modelo `model/model_gen.h5` de la red generador definida y entrenada en la google colab `Proyecto_Senpai_AI_dev_2020.ipynb` la cual se encuentra en la raíz de este proyecto. Y luego para cada llamada al endpoint `example1.png` se ejecuta el método `predict` del modelo, el cual genera una nueva imagen y lo envía como respuesta en el pedido HTTP. [12]
 
 ## Análisis de soluciones existentes y detalle de la alternativa seleccionada
 
@@ -238,11 +238,23 @@ Los resultados obtenidos son buenos, a simple vista y más allá de pequeños de
 
 ![Resultados](public/resultados.png?raw=true)
 
+Como se comentaba anteriormente, a red fue entrenada en Google Colab que cuenta con las siguientes especificaciones a la fecha 26/07/2020:
+
+CPU: 2-core Xeon 2.2GHz
+GPU: Tesla K80
+RAM: 13GB
+HDD: 33GB disponibles
+
+
+El modelo llevó 4 horas en entrenar las 200 epochs. La cantidad de imágenes utilizadas del dataset fueron 30526 luego de retirar imágenes que muy oscuras.
+
 En cuanto a la perdida de ambos modelos, parecen resultados razonables los cuales se mantienen estables con tendencia a decrecer a medida que aumentan las epocas:
 
 ![Resultados-perdida](public/resultados-perdida.png?raw=true)
 
 Se puede ver  el progreso de los resultados en el entrenamiento en detalle en la sección *6. Entrenar el GAN* de la google colab `Proyecto_Senpai_AI_dev_2020.ipynb`.
+
+
 
 ## Propuestas a futuro
 Quedan fuera del alcance de este proyecto algunas mejoras planificadas en un principio las cuales serían de interes para mejorar la generación de imagenes reales por parte de la red generadora. Algunos de ellos son:
@@ -310,7 +322,7 @@ $ flask run --host=0.0.0.0
 - En un navegador web ingresar a la página web dada por el servicio AWS en el puerto 5000.
 
 **Se observará una imágen de tamaño 32x32 que es el resultado de hacer un predict en el modelo del generador previamente entrenado.
-Para tener otra imagen se debe cargar nuevamente la página.** [11][12] 
+Para tener otra imagen se debe cargar nuevamente la página.** 
 
 
 ## Referencias y Bibliografía
