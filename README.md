@@ -12,7 +12,8 @@ Proyecto de fin de curso del Artificial Inteligence Developer 20
 - [Resultados obtenidos](## Resultados%20obtenidos)
 - [Propuestas a futuro](## Propuestas%20a%20futuro)
 - [Correr el proyecto](## Correr%20el%20proyecto)
-- [Referencias y Bibliografía](##_referencias_y_bibliografía)
+- [Referencias y Bibliografía](#referencias-y-bibliografía)
+
 
 ## Conformación del equipo
 
