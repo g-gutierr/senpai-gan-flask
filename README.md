@@ -240,10 +240,10 @@ Los resultados obtenidos son buenos, a simple vista y más allá de pequeños de
 
 Como se comentaba anteriormente, a red fue entrenada en Google Colab que cuenta con las siguientes especificaciones a la fecha 26/07/2020:
 
-CPU: 2-core Xeon 2.2GHz
-GPU: Tesla K80
-RAM: 13GB
-HDD: 33GB disponibles
+CPU: 2-core Xeon 2.2GHz  <br />
+GPU: Tesla K80  <br />
+RAM: 13GB  <br />
+HDD: 33GB disponibles  <br />
 
 
 El modelo llevó 4 horas en entrenar las 200 epochs. La cantidad de imágenes utilizadas del dataset fueron 30526 luego de retirar imágenes que muy oscuras.
