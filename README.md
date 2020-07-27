@@ -246,7 +246,7 @@ Como se comentaba anteriormente, la red fue entrenada en Google Colab que cuenta
 - HDD: 33GB disponibles  <br />
 
 
-El modelo llevó 4 horas en entrenar las 200 epochs. La cantidad de imágenes utilizadas del dataset fueron 30526 luego de retirar imágenes que muy oscuras.
+El modelo tomó unas 5 horas 7 minutos de wall time en entrenar las 200 epochs con un batch size de 32 imágenes, totalizando 953 batches por cada epoch. La cantidad de imágenes utilizadas del dataset fueron 30526 luego de haber retirado las imágenes que son muy oscuras.
 
 En cuanto a la perdida de ambos modelos, parecen resultados razonables los cuales se mantienen estables con tendencia a decrecer a medida que aumentan las epocas:
 
