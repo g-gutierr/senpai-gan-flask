@@ -11,7 +11,7 @@ Pillow==7.2.0
 pkg-resources==0.0.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
-PyYAML==5.3.1
+PyYAML==5.4
 simpy==4.0.1
 simpy.io==0.2.3
 
