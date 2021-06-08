@@ -7,7 +7,7 @@ Keras==2.4.3
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.2.2
-Pillow==7.2.0
+Pillow==8.2.0
 pkg-resources==0.0.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
